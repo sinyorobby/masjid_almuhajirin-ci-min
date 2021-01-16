@@ -76,16 +76,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	//DATABASE LOCALHOST
-	
-	//'username' => 'root',
-	//'password' => '',
-	//'database' => 'masjid_almuhajirin',
-	
-	//DATABASE ARDHACODES
-	'username' => 'u9477981_almuhajirin',
-	'password' => 'u9477981_almuhajirin',
-	'database' => 'u9477981_almuhajirin',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'masjid_almuhajirin',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
